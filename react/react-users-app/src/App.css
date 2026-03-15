@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.outer-card {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.card {
+  border: 2px solid black;
+  border-radius: 8px;
+  margin: 10px;
+  padding: 10px;
+  background-color: wheat;
+}
+
+.robo-img {
+  width: 250px;
+  height: 250px;
+}
+
+.search-box {
+  height: 30px;
+  font-size: large;
+  margin: 10px;
+}
+
+.btn-style {
+  width: 100px;
+  height: 25px;
+  cursor: pointer;
+  background-color: chocolate;
+  color: white;
+  font-size: large;
+  margin-left: 2px;
+  margin-right: 2px;
+}

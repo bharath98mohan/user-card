@@ -32,9 +32,10 @@
   width: 100px;
   height: 25px;
   cursor: pointer;
-  background-color: chocolate;
+  background-color: crimson;
   color: white;
   font-size: large;
   margin-left: 2px;
   margin-right: 2px;
+  border-radius: 5px;
 }
